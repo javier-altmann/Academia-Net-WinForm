@@ -1,0 +1,15 @@
+c:\users\javier.altmann\documents\visual studio 2015\Projects\Empleados-Academia\Empleados-Academia\bin\Debug\Empleados-Academia.exe.config
+c:\users\javier.altmann\documents\visual studio 2015\Projects\Empleados-Academia\Empleados-Academia\obj\Debug\Empleados-Academia.csprojResolveAssemblyReference.cache
+c:\users\javier.altmann\documents\visual studio 2015\Projects\Empleados-Academia\Empleados-Academia\obj\Debug\Empleados_Academia.Form1.resources
+c:\users\javier.altmann\documents\visual studio 2015\Projects\Empleados-Academia\Empleados-Academia\obj\Debug\Empleados_Academia.Properties.Resources.resources
+c:\users\javier.altmann\documents\visual studio 2015\Projects\Empleados-Academia\Empleados-Academia\obj\Debug\Empleados-Academia.csproj.GenerateResource.Cache
+c:\users\javier.altmann\documents\visual studio 2015\Projects\Empleados-Academia\Empleados-Academia\bin\Debug\Empleados-Academia.exe
+c:\users\javier.altmann\documents\visual studio 2015\Projects\Empleados-Academia\Empleados-Academia\bin\Debug\Empleados-Academia.pdb
+c:\users\javier.altmann\documents\visual studio 2015\Projects\Empleados-Academia\Empleados-Academia\bin\Debug\DAL.dll
+c:\users\javier.altmann\documents\visual studio 2015\Projects\Empleados-Academia\Empleados-Academia\bin\Debug\EntityFramework.dll
+c:\users\javier.altmann\documents\visual studio 2015\Projects\Empleados-Academia\Empleados-Academia\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\javier.altmann\documents\visual studio 2015\Projects\Empleados-Academia\Empleados-Academia\bin\Debug\DAL.pdb
+c:\users\javier.altmann\documents\visual studio 2015\Projects\Empleados-Academia\Empleados-Academia\bin\Debug\EntityFramework.xml
+c:\users\javier.altmann\documents\visual studio 2015\Projects\Empleados-Academia\Empleados-Academia\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\javier.altmann\documents\visual studio 2015\Projects\Empleados-Academia\Empleados-Academia\obj\Debug\Empleados-Academia.exe
+c:\users\javier.altmann\documents\visual studio 2015\Projects\Empleados-Academia\Empleados-Academia\obj\Debug\Empleados-Academia.pdb

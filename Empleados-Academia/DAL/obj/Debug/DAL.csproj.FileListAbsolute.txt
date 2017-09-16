@@ -1,0 +1,11 @@
+c:\users\javier.altmann\documents\visual studio 2015\Projects\Empleados-Academia\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+c:\users\javier.altmann\documents\visual studio 2015\Projects\Empleados-Academia\DAL\bin\Debug\DAL.dll
+c:\users\javier.altmann\documents\visual studio 2015\Projects\Empleados-Academia\DAL\bin\Debug\DAL.pdb
+c:\users\javier.altmann\documents\visual studio 2015\Projects\Empleados-Academia\DAL\bin\Debug\EntityFramework.dll
+c:\users\javier.altmann\documents\visual studio 2015\Projects\Empleados-Academia\DAL\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\javier.altmann\documents\visual studio 2015\Projects\Empleados-Academia\DAL\bin\Debug\EntityFramework.xml
+c:\users\javier.altmann\documents\visual studio 2015\Projects\Empleados-Academia\DAL\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\javier.altmann\documents\visual studio 2015\Projects\Empleados-Academia\DAL\obj\Debug\DAL.dll
+c:\users\javier.altmann\documents\visual studio 2015\Projects\Empleados-Academia\DAL\obj\Debug\DAL.pdb
+C:\Users\javier.altmann\Documents\Visual Studio 2015\Projects\Empleados-Academia\DAL\bin\Debug\Modelo.dll
+C:\Users\javier.altmann\Documents\Visual Studio 2015\Projects\Empleados-Academia\DAL\bin\Debug\Modelo.pdb

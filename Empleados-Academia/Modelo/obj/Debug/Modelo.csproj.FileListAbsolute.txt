@@ -1,0 +1,10 @@
+C:\Users\javier.altmann\Documents\Visual Studio 2015\Projects\Empleados-Academia\Modelo\bin\Debug\Modelo.dll.config
+C:\Users\javier.altmann\Documents\Visual Studio 2015\Projects\Empleados-Academia\Modelo\bin\Debug\Modelo.dll
+C:\Users\javier.altmann\Documents\Visual Studio 2015\Projects\Empleados-Academia\Modelo\bin\Debug\Modelo.pdb
+C:\Users\javier.altmann\Documents\Visual Studio 2015\Projects\Empleados-Academia\Modelo\bin\Debug\EntityFramework.dll
+C:\Users\javier.altmann\Documents\Visual Studio 2015\Projects\Empleados-Academia\Modelo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\javier.altmann\Documents\Visual Studio 2015\Projects\Empleados-Academia\Modelo\bin\Debug\EntityFramework.xml
+C:\Users\javier.altmann\Documents\Visual Studio 2015\Projects\Empleados-Academia\Modelo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\javier.altmann\Documents\Visual Studio 2015\Projects\Empleados-Academia\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+C:\Users\javier.altmann\Documents\Visual Studio 2015\Projects\Empleados-Academia\Modelo\obj\Debug\Modelo.dll
+C:\Users\javier.altmann\Documents\Visual Studio 2015\Projects\Empleados-Academia\Modelo\obj\Debug\Modelo.pdb
