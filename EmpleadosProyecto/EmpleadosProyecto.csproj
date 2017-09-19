@@ -90,6 +90,10 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\DAL\DAL.csproj">
+      <Project>{f65a337d-9c53-4fd6-836f-2aa3bdcdd4a8}</Project>
+      <Name>DAL</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Modelo\Modelo.csproj">
       <Project>{073fe52b-c560-446e-9912-9a0d738be576}</Project>
       <Name>Modelo</Name>

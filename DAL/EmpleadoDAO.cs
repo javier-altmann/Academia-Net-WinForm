@@ -61,26 +61,34 @@ namespace DAL
         //    return listadoDeEmpleados;
         //}
 
-        public List<EmpleadoDTO> listadoDeEmpleados()
+        //public List<EmpleadoDTO> listadoDeEmpleados()
+        //{
+        //    List<Empleado> empleado = context.Empleados.ToList();
+        //    List<EmpleadoDTO> listadoDeEmpleados = new List<EmpleadoDTO>();
+
+        //    foreach (var item in empleado)
+        //    {
+        //        listadoDeEmpleados.Add(new EmpleadoDTO()
+        //        {
+        //            Id_Empleado = item.Id_Empleado,
+        //            nombre = item.nombre,
+        //            apellido = item.apellido,
+        //            sueldo = (double)item.sueldo
+        //        });
+        //    }
+
+        public IEnumerable<EmpleadoDTO> listadoDeEmpleados()
         {
-            List<Empleado> empleado = context.Empleados.ToList();
-            List<EmpleadoDTO> listadoDeEmpleados = new List<EmpleadoDTO>();
-
-            foreach (var item in empleado)
+            return context.Empleados.Select(item => new EmpleadoDTO
             {
-                listadoDeEmpleados.Add(new EmpleadoDTO()
-                {
-                    Id_Empleado = item.Id_Empleado,
-                    nombre = item.nombre,
-                    apellido = item.apellido,
-                    sueldo = (double)item.sueldo
-                });
-            }
-
-           
-
-            return listadoDeEmpleados;
+                Id_Empleado = item.Id_Empleado,
+                nombre = item.nombre,
+                apellido = item.apellido,
+                sueldo = (double)item.sueldo
+            }).ToList();
         }
+
+  
 
 
         public EmpleadoDTO consultaEmpleados(int id_empleado)
